@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #15171a;
+}
+
+.box{
+    margin: 256px auto 256px auto;
+    text-align: center;
+    font: normal 600% 'Comfortaa', sans-serif;
+    color: #31363b;
+}
+
+.box i{
+    cursor: pointer;
+}
