@@ -11,6 +11,8 @@ function active(){
     text.style.color = '#d9db39';
     text.style.textShadow = '0 0 20px';
 
+
+
     let audio = new Audio();
     audio.src = 'neon.mp3';
     audio.autoplay = true;
